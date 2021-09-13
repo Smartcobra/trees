@@ -8,4 +8,5 @@ public class TreeNode<T> {
     TreeNode(T data){
         this.data=data;
     }
+
 }
