@@ -1,8 +1,6 @@
 package BinaryTressProblem.createinsertduplicate;
 
 
-import BinaryTressProblem.printlevelwise.PrintLevelWise;
-
 public class CreateAndInsertDuplicateToLeft {
 
     public TreeNode<Integer> insertDuplicateLeft(TreeNode<Integer> root){
